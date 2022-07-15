@@ -8,3 +8,7 @@
 
 1. Clone this repository.
 2. Execute the scripts using Node. Example: `node 1_hash_maps.js`.
+
+**NOTE:**
+
+These challenges can be found in [Code Signal](https://codesignal.com/), if you'd prefer to practice using their platform instead of local tools.
