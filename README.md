@@ -11,4 +11,4 @@
 
 **NOTE:**
 
-These challenges can be found in [Code Signal](https://codesignal.com/), if you'd prefer to practice using their platform instead of local tools.
+These challenges can be loaded in [Code Signal](https://codesignal.com/), if you'd prefer to practice using their platform instead of local tools.
